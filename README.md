@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Juan Pablo Bernal Vásquez.
+# ABOUT ME:
+-> Estudiante de ingenieria de sistemas
+-> Inglés B2 (Certificación Cambridge) - Listo para trabajar en equipos internacionales
+-> Actualmente profundizando en algoritmos, estructuras de datos y desarrollo full-stack (Spring Boot)
 
-<!--
-**JuanpabloBV-dev/JuanpabloBV-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack:
+`Python` `C++` `HTML/CSS` `JavaScript` `PHP` `MySQL` `Spring Boot` `Git`
 
-Here are some ideas to get you started:
+## 🤝 Habilidades blandas
+Adaptabilidad · Aprendizaje rápido · Comunicación asertiva · Responsabilidad · Orientación a resultados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto: 
+juanpablobernalvasquez015@gmail.com
+
